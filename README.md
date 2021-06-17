@@ -1,1 +1,1 @@
-# GrapQL-Apllo-API
+# GrapQL-Apollo-API
